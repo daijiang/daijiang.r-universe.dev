@@ -1,0 +1,22 @@
+[
+    {
+        "package": "megatrees",
+        "url": "https://github.com/daijiang/megatrees"
+    },
+    {
+        "package": "rtrees",
+        "url": "https://github.com/daijiang/rtrees"
+    },
+    {
+        "package": "phyr",
+        "url": "https://github.com/daijiang/phyr"
+    },
+    {
+        "package": "lirrr",
+        "url": "https://github.com/daijiang/lirrr"
+    },
+    {
+        "package": "hillR",
+        "url": "https://github.com/daijiang/hillR"
+    }
+]
