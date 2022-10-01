@@ -18,5 +18,9 @@
     {
         "package": "hillR",
         "url": "https://github.com/daijiang/hillR"
+    },
+      {
+        "package": "neonDivData",
+        "url": "https://github.com/daijiang/neonDivData"
     }
 ]
